@@ -1,0 +1,34 @@
+*{
+    padding:2px;
+    margin:0px;
+    box-sizzing:border-box;
+}
+.wrapper{
+
+    padding:0px 100px;
+  
+  width:100%;
+  height:100px;
+
+
+}
+.header{
+    width:400px;
+    height:50px;
+    background-color: purple;
+    font-size:25px;
+    color: aliceblue;
+    text-align: justify;
+
+}
+
+.img{
+    display:block;
+    margin-top: auto;
+    margin-left:auto;
+    margin-right:auto;
+    padding:0px;
+    width:200px;
+    height:300px;
+
+}
